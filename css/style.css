@@ -1,0 +1,70 @@
+body {
+  width: 50%;
+  margin: auto;
+  background-image: url("../img/sfondo.jpg");
+}
+
+/*inizio intestazione*/
+.logo {
+  width: 14%;
+  vertical-align: middle;
+}
+/*fine intestazione*/
+
+.linea {
+  margin-top: 0;
+}
+
+/*inizio ricerca*/
+.testo {
+  color: white;
+  font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cerchio {
+  background: orange;
+  padding: 12px;
+  border-radius: 50%;
+}
+/*fine ricerca*/
+
+/*inizio email*/
+.letta{
+  background: lightgrey;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.daleggere {
+  background: white;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.grey {
+  color: grey;
+}
+
+.email {
+  margin-bottom: 5px;
+}
+/*fine email*/
+
+/*footer*/
+.footer {
+  color: white;
+  text-align: center;
+}
+
+#gmail {
+  font-size: 25px;
+  padding-right: 2px
+}
+
+ #davide{
+  font-size: 15px;
+  font-style: italic;
+}
+/*fine footer*/
